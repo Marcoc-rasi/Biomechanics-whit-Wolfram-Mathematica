@@ -1,0 +1,8 @@
+Hola profe, como podra observar  no subi el examen  a tiempo, lo que pasa es que se me cayo el internet como 30 min 
+y hasta que regreso pude subir las cosas, una disculpa, y yo entiendo si no cuenta, de todas maneras se lo envio para que vea 
+que si hice todo, ademas queria comentarle la forma en la que resolvi el problema del angulo
+si tengo el vector cadera rodilla, con su modulo puedo saver su valor, y si tomo ese vector como la hipotenusa
+de un triangulo,  tengo los tres valores de los catetos en x, un cateto, en y otro cateto, ya que suponemos que esta
+con respecto a la horizontal, a su vez use leyes de cosenos, para obtener el angulo b del triangulo, el angulo que buscamos
+le adjunto una imagen de los calculos que hice en mi cuaderno., muchas gracias por su atencion y buen dia profesor. 
+Martinez Ortiz Marcos Uriel
