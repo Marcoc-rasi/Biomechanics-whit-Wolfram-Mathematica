@@ -1,3 +1,4 @@
 # Biomechanics-whit-Wolfram-Mathematica
-This project takes videos of bipedal walking, and analyzes them with Kinovea. Kinovea returns us an Excel file with the position in time of the joints, we import this data into wolfram Alpha where we can do operations with them, graph, and compare the position of the joints in each walk.
-I recommend downloading this repository and its files, because github treats the .np type files handled by wolfram mathematica strangely.
+For this repository it is extremely important that you understand that by downloading this repository you will not be able to run the code in mathematica, the code works by extracting information from Excel files, and then saving information using the same format.
+You have to change in the code the path of the excel documents used to extract information, since the path it contains is a path that only exists on my PC, once you modify the path of the files, you can run without any problem .
+The videos and Excel files that you will find, are from which I extracted the information on the position of the leg points, these files were obtained with a software called kinovea that allows you to mark points on a video and obtain their position information with respect to to a reference.
